@@ -1,0 +1,43 @@
+.body_backgorund 
+{
+    background-image:url(unnamed.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	border-color:darkviolet;
+    box-shadow: 5px 5px 5px 5px #d58cfa;
+}
+
+#btn{
+    background-color: white;
+    color:darkviolet;
+    border: 5px ridge darkviolet;
+    font-family:'WindSong', cursive; 
+    font-size: 30px;
+    box-shadow:3px 3px 3px rgb(255, 110, 243);
+}
+#header{
+    float:none;
+    font-weight: 700;
+    margin-left: 300px;
+    color:darkviolet;
+    font-size: 50px;
+    
+}
+.neonText {
+    color: #fff;
+    text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #f09,
+      0 0 82px #f09,
+      0 0 92px #f09,
+      0 0 102px #f09,
+      0 0 151px #f09;
+  }
